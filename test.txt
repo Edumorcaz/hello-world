@@ -2,4 +2,6 @@ Esta es un prueba para git
 
 Se abrio en Visual studio code
 
-ahora estoy haciendo 
+ahora estoy haciendo alguno cambios
+
+esto es divertido.
